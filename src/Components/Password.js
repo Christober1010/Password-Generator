@@ -32,7 +32,7 @@ function Password() {
     return (
         <div className='mainbox'>
             <div className='bg-dark text-warning con mt-3 mb-1 p-5 rounded-5'>
-                <h1>Password Generator</h1>
+                <h1>Password Generator</h1>     
                 <div className='input-groupsc'>
                     <div className=''>
                         <label>Password Length</label>
